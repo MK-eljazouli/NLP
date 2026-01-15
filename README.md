@@ -1,2 +1,3 @@
 # NLP
-scraping 
+mazal makin walo
+
